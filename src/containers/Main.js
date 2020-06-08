@@ -20,8 +20,10 @@ export default class Main extends Component {
         <Header />
         <Greeting />
         <Skills />
+        {/** 
         <StartupProject />
         <Blogs />
+        **/}
         <Profile />
         <Footer />
         <Top />
